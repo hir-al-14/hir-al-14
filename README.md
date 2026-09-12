@@ -42,7 +42,7 @@ CS student at UC Davis, minoring in electrical engineering and economics. I've w
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/insights/metrics-rhythm.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/monthly-commits.svg" width="90%" />
 </p>
 
 <br/>
