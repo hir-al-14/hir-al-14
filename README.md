@@ -45,6 +45,14 @@ CS student at UC Davis, minoring in electrical engineering and economics. I've w
 <img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/monthly-commits.svg" width="90%" />
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/stats.svg" width="90%" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/languages.svg" width="90%" />
+</p>
+
 <br/>
 
 <p align="center"><b>projects</b></p>
