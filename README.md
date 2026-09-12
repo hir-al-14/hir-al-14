@@ -1,58 +1,82 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,100:c77dff&height=140&section=header" />
-
 <h1 align="center">Hiral Arora</h1>
-<p align="center"><sub>Software Engineer · AI/ML & Full-Stack — UC Davis, CS + EE minor</sub></p>
-
-<br/>
+<p align="center"><sub>Computer Science and Electrical Engineering at UC Davis</sub></p>
 
 <p align="center">
-Building RAG pipelines, recommendation systems, and route-optimization engines.<br/>
-Previously: Hyphae · Benevolent Bandwidth · Infinite Computer Solutions · India Today Group
-</p>
-
-<p align="center">
-<a href="https://github.com/CodeLab-Davis"><img src="https://img.shields.io/badge/CodeLab-VP_of_Projects-2b0a3d?style=flat-square" /></a>
-<a href="https://github.com/benevolentbandwidth"><img src="https://img.shields.io/badge/Benevolent_Bandwidth-Software_Engineer-2b0a3d?style=flat-square" /></a>
-<img src="https://img.shields.io/badge/The_AI_Collective-Director-2b0a3d?style=flat-square" />
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,dotnet,react,nodejs,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,linux,pytorch,tensorflow&theme=dark" />
+🌐 <a href="https://hiral-arora.vercel.app/">hiral-arora.vercel.app</a> &nbsp;|&nbsp; 📩 <a href="mailto:hiral.arora.1418@gmail.com">hiral.arora.1418@gmail.com</a>
 </p>
 
 <br/>
 
+<p align="center" width="80%">
+Hey! I'm Hiral, a computer science student at UC Davis with minors in electrical engineering and economics. Over the past few years I've experimented with LLMs, chatbots, image processing, recommendation systems, sensors, CAD, predictive models, and all the little side projects that come from random ideas at 2am.
+</p>
+
+<p align="center" width="80%">
+Every time I try something new, my path shifts a little, and I've realized I actually love that uncertainty — it's what keeps CS exciting for me. I'm currently involved in clubs like <a href="https://github.com/CodeLab-Davis">CodeLab</a>, The AI Collective, GDSC, and #include. I love being around people who care about what they're creating.
+</p>
+
+<p align="center"><i>Always happy to chat or collaborate, so feel free to reach out!</i></p>
+
+<br/>
+
+<p align="center"><sub><b>languages</b></sub></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hir-al-14&show_icons=true&hide_title=true&hide_border=true&bg_color=1a0b2e&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff" height="165" />
-<img src="https://streak-stats.demolab.com/?user=hir-al-14&hide_border=true&background=1A0B2E&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF&sideLabels=E0AAFF&sideNums=E0AAFF&dates=7F5AA6" height="165" />
+<img height="28" src="https://skillicons.dev/icons?i=python,c,cs,java,js,ts" />
+</p>
+
+<p align="center"><sub><b>frameworks</b></sub></p>
+<p align="center">
+<img height="28" src="https://skillicons.dev/icons?i=dotnet,react,nodejs,angular" />
+</p>
+
+<p align="center"><sub><b>data & cloud</b></sub></p>
+<p align="center">
+<img height="28" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,gcp" />
+</p>
+
+<p align="center"><sub><b>ai / ml</b></sub></p>
+<p align="center">
+<img height="28" src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="center"><sub><b>tools</b></sub></p>
+<p align="center">
+<img height="28" src="https://skillicons.dev/icons?i=git,linux,vscode" />
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hir-al-14&show_icons=true&hide_title=true&hide_border=true&bg_color=201A2B&title_color=C3AED6&icon_color=9B7EBD&text_color=D8C9E8" height="165" />
+<img src="https://streak-stats.demolab.com/?user=hir-al-14&hide_border=true&background=201A2B&ring=C3AED6&fire=9B7EBD&currStreakLabel=D8C9E8&sideLabels=D8C9E8&sideNums=D8C9E8&dates=8672A0" height="165" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hir-al-14&hide_border=true&bg_color=1A0B2E&color=E0AAFF&line=C77DFF&point=9D4EDD&area=true&area_color=5A189A" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hir-al-14&hide_border=true&bg_color=201A2B&color=D8C9E8&line=C3AED6&point=9B7EBD&area=true&area_color=6B5490" width="90%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hir-al-14&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hir-al-14&layout=compact&hide_border=true&bg_color=201A2B&title_color=C3AED6&text_color=D8C9E8" height="165" />
 </p>
 
 <br/>
 
 <p align="center"><b>projects</b></p>
 <p align="center">
-<a href="https://github.com/hir-al-14/Computer-Vision-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=Computer-Vision-Projects&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" /></a>
-<a href="https://github.com/hir-al-14/deliveryoptimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=deliveryoptimizer&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" /></a>
+<a href="https://github.com/hir-al-14/Computer-Vision-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=Computer-Vision-Projects&hide_border=true&bg_color=201A2B&title_color=C3AED6&icon_color=9B7EBD&text_color=D8C9E8" /></a>
+<a href="https://github.com/hir-al-14/deliveryoptimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=deliveryoptimizer&hide_border=true&bg_color=201A2B&title_color=C3AED6&icon_color=9B7EBD&text_color=D8C9E8" /></a>
 </p>
 <p align="center">
-<!-- swap these two repo names once Anticipate / Scope are pushed under hir-al-14 -->
-<a href="https://github.com/hir-al-14/Anticipate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=Anticipate&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" /></a>
-<a href="https://github.com/hir-al-14/Scope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=Scope&hide_border=true&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" /></a>
+<a href="https://github.com/hir-al-14/NomNom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=NomNom&hide_border=true&bg_color=201A2B&title_color=C3AED6&icon_color=9B7EBD&text_color=D8C9E8" /></a>
+<a href="https://github.com/hir-al-14/Hiral-Arora-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hir-al-14&repo=Hiral-Arora-website&hide_border=true&bg_color=201A2B&title_color=C3AED6&icon_color=9B7EBD&text_color=D8C9E8" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-<a href="https://hiral-arora.vercel.app/"><img src="https://img.shields.io/badge/portfolio-hiral--arora.vercel.app-9d4edd?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/hiral-aroraa/"><img src="https://img.shields.io/badge/LinkedIn-connect-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://hiral-arora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6B5490?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hiral-aroraa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hiral.arora.1418@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/hir-al-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1VV8gPGp5mH2VUT8mNc8sFVfhm-v3dHgP/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-8672A0?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,100:2b0a3d&height=100&section=footer" />
