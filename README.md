@@ -25,9 +25,14 @@ CS student at UC Davis, minoring in electrical engineering and economics. I've w
 <img height="26" src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb" />
 </p>
 
-<p align="center"><sub><b>ai / ml &amp; infra</b></sub></p>
+<p align="center"><sub><b>ai / ml</b></sub></p>
 <p align="center">
-<img height="26" src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,aws,gcp,git" />
+<img height="26" src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p align="center"><sub><b>cloud &amp; tools</b></sub></p>
+<p align="center">
+<img height="26" src="https://skillicons.dev/icons?i=docker,aws,gcp,git" />
 </p>
 
 <br/>
