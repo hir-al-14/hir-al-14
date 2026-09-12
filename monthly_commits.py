@@ -109,11 +109,11 @@ ax.set_xticklabels(labels)
 
 add_border(ax)
 ax.tick_params(colors=TEXT, labelsize=9)
-ax.set_title(f"{USERNAME}'s Monthly Contributions", color=TEXT, fontsize=12,
-             fontweight="bold", pad=12)
+ax.set_title(f"{USERNAME}'s Monthly Contributions", color=TEXT, fontsize=11.5,
+             fontweight="bold", pad=10)
 ax.grid(axis="y", color=GRID, linewidth=0.7, zorder=0)
 
-plt.tight_layout()
+plt.subplots_adjust(left=0.08, right=0.97, top=0.86, bottom=0.14)
 plt.savefig("assets/monthly-commits.svg", format="svg", transparent=True)
 plt.close(fig)
 print("Saved assets/monthly-commits.svg")
@@ -128,24 +128,27 @@ stats = [
     ("Repos contributed to", collection["totalRepositoryContributions"]),
 ]
 
-fig, ax = plt.subplots(figsize=(6.5, 2), dpi=150)
+fig, ax = plt.subplots(figsize=(6.5, 1.8), dpi=150)
 style_transparent(fig, ax)
 ax.axis("off")
+ax.set_xlim(0, 1)
+ax.set_ylim(0, 1)
+fig.subplots_adjust(left=0.02, right=0.98, top=0.96, bottom=0.04)
 ax.add_patch(plt.Rectangle((0, 0), 1, 1, transform=ax.transAxes, fill=False,
                             edgecolor=BORDER, linewidth=1.2))
 
 n = len(stats)
 for i, (label, value) in enumerate(stats):
     cx = (i + 0.5) / n
-    ax.text(cx, 0.62, str(value), transform=ax.transAxes, ha="center", va="center",
-            fontsize=26, fontweight="bold", color=MARK)
-    ax.text(cx, 0.22, label, transform=ax.transAxes, ha="center", va="center",
-            fontsize=10, color=TEXT)
+    ax.text(cx, 0.60, str(value), transform=ax.transAxes, ha="center", va="center",
+            fontsize=24, fontweight="bold", color=MARK)
+    ax.text(cx, 0.26, label, transform=ax.transAxes, ha="center", va="center",
+            fontsize=9.5, color=TEXT)
     if i > 0:
-        ax.axvline(i / n, color=GRID, linewidth=1, ymin=0.12, ymax=0.88)
+        ax.axvline(i / n, color=GRID, linewidth=1, ymin=0.14, ymax=0.86)
 
-fig.suptitle(f"{USERNAME}'s Activity (past year)", color=TEXT, fontsize=12, fontweight="bold", y=0.98)
-plt.tight_layout()
+fig.text(0.5, 0.88, f"{USERNAME}'s Activity (past year)", ha="center", va="center",
+          fontsize=11.5, fontweight="bold", color=TEXT)
 plt.savefig("assets/stats.svg", format="svg", transparent=True)
 plt.close(fig)
 print("Saved assets/stats.svg")
@@ -176,17 +179,20 @@ lang_pcts = [100 * v / total_bytes for _, v in top_langs]
 colors = [LANGUAGE_COLORS.get(name, FALLBACK_CYCLE[i % len(FALLBACK_CYCLE)])
           for i, name in enumerate(lang_names)]
 
-fig, ax = plt.subplots(figsize=(6.5, 2.6), dpi=150)
+fig, ax = plt.subplots(figsize=(6.5, 2.2), dpi=150)
 style_transparent(fig, ax)
 ax.axis("off")
+ax.set_xlim(0, 1)
+ax.set_ylim(0, 1)
+fig.subplots_adjust(left=0.03, right=0.97, top=0.94, bottom=0.05)
 ax.add_patch(plt.Rectangle((0, 0), 1, 1, transform=ax.transAxes, fill=False,
                             edgecolor=BORDER, linewidth=1.2))
 
-ax.set_title(f"{USERNAME}'s Most Used Languages", color=TEXT, fontsize=12,
-             fontweight="bold", pad=16, y=1.0)
+fig.text(0.5, 0.88, f"{USERNAME}'s Most Used Languages", ha="center", va="center",
+          fontsize=11.5, fontweight="bold", color=TEXT)
 
 # Segmented pill bar
-bar_y, bar_h = 0.72, 0.09
+bar_y, bar_h = 0.70, 0.10
 left = 0.06
 bar_width = 0.88
 cursor = left
@@ -199,16 +205,16 @@ for pct, color in zip(lang_pcts, colors):
 # Two-column legend below
 rows = (len(lang_names) + 1) // 2
 col_x = [0.08, 0.55]
-row_start_y = 0.5
-row_gap = 0.16
+row_start_y = 0.48
+row_gap = 0.19
 for i, (name, pct, color) in enumerate(zip(lang_names, lang_pcts, colors)):
     col = i // rows
     row = i % rows
     x = col_x[col]
     y = row_start_y - row * row_gap
-    ax.add_patch(plt.Circle((x, y), 0.012, transform=ax.transAxes, facecolor=color, edgecolor="none"))
-    ax.text(x + 0.025, y, f"{name}  {pct:.2f}%", transform=ax.transAxes,
-            ha="left", va="center", fontsize=10, color=TEXT)
+    ax.add_patch(plt.Circle((x, y), 0.014, transform=ax.transAxes, facecolor=color, edgecolor="none"))
+    ax.text(x + 0.03, y, f"{name}  {pct:.2f}%", transform=ax.transAxes,
+            ha="left", va="center", fontsize=9.5, color=TEXT)
 
 plt.savefig("assets/languages.svg", format="svg", transparent=True)
 plt.close(fig)
