@@ -18,7 +18,16 @@ MARK = "#C77DFF"
 TEXT = "#D8C9E8"
 GRID = "#3C2A52"
 BORDER = "#9D4EDD"
-PALETTE = ["#5A189A", "#7B2CBF", "#9D4EDD", "#C77DFF", "#E0AAFF", "#3C096C"]
+
+# Recognizable per-language colors (GitHub linguist-style), with a fallback cycle.
+LANGUAGE_COLORS = {
+    "Python": "#3572A5", "JavaScript": "#f1e05a", "TypeScript": "#3178c6",
+    "Java": "#b07219", "C++": "#f34b7d", "C": "#555555", "C#": "#178600",
+    "HTML": "#e34c26", "CSS": "#563d7c", "Shell": "#89e051",
+    "Jupyter Notebook": "#DA5B0B", "Go": "#00ADD8", "Rust": "#dea584",
+    "Swift": "#F05138", "Kotlin": "#A97BFF", "Dart": "#00B4AB",
+}
+FALLBACK_CYCLE = ["#4C72B0", "#DD8452", "#55A868", "#C44E52", "#8172B2", "#937860"]
 
 os.makedirs("assets", exist_ok=True)
 
@@ -88,7 +97,7 @@ for year, month in keys:
     labels.append(label)
     counts.append(monthly[(year, month)])
 
-fig, ax = plt.subplots(figsize=(9, 3), dpi=150)
+fig, ax = plt.subplots(figsize=(6.5, 2.6), dpi=150)
 style_transparent(fig, ax)
 
 x = range(len(labels))
@@ -119,7 +128,7 @@ stats = [
     ("Repos contributed to", collection["totalRepositoryContributions"]),
 ]
 
-fig, ax = plt.subplots(figsize=(9, 2.2), dpi=150)
+fig, ax = plt.subplots(figsize=(6.5, 2), dpi=150)
 style_transparent(fig, ax)
 ax.axis("off")
 ax.add_patch(plt.Rectangle((0, 0), 1, 1, transform=ax.transAxes, fill=False,
@@ -164,9 +173,10 @@ top_langs = sorted(lang_totals.items(), key=lambda kv: kv[1], reverse=True)[:6]
 total_bytes = sum(v for _, v in top_langs) or 1
 lang_names = [k for k, _ in top_langs]
 lang_pcts = [100 * v / total_bytes for _, v in top_langs]
-colors = [PALETTE[i % len(PALETTE)] for i in range(len(lang_names))]
+colors = [LANGUAGE_COLORS.get(name, FALLBACK_CYCLE[i % len(FALLBACK_CYCLE)])
+          for i, name in enumerate(lang_names)]
 
-fig, ax = plt.subplots(figsize=(9, 3.2), dpi=150)
+fig, ax = plt.subplots(figsize=(6.5, 2.6), dpi=150)
 style_transparent(fig, ax)
 ax.axis("off")
 ax.add_patch(plt.Rectangle((0, 0), 1, 1, transform=ax.transAxes, fill=False,

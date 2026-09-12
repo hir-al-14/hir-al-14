@@ -38,19 +38,13 @@ CS student at UC Davis, minoring in electrical engineering and economics. I've w
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=hir-al-14&hide_border=true&background=F7F0FB&border_color=E4D4F4&ring=9D4EDD&fire=7B2CBF&currStreakLabel=4A3F55&sideLabels=4A3F55&sideNums=4A3F55&dates=8672A0" height="165" />
+<img src="https://streak-stats.demolab.com/?user=hir-al-14&background=00000000&border=9D4EDD&border_radius=8&ring=9D4EDD&fire=C77DFF&currStreakLabel=D8C9E8&sideLabels=D8C9E8&sideNums=D8C9E8&dates=8672A0" width="48%" />
+<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/stats.svg" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/monthly-commits.svg" width="90%" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/stats.svg" width="90%" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/languages.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/monthly-commits.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/assets/languages.svg" width="48%" />
 </p>
 
 <br/>
