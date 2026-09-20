@@ -275,9 +275,9 @@ else:
 # -------------------------------------------------------
 
 GRAPH_X = 365
-GRAPH_Y = 76
+GRAPH_Y = 88
 GRAPH_WIDTH = 390
-GRAPH_HEIGHT = 112
+GRAPH_HEIGHT = 90
 
 values = [month["value"] for month in months]
 
@@ -330,7 +330,7 @@ for index, month_data in enumerate(months):
         month_labels += f"""
         <text
           x="{x:.1f}"
-          y="211"
+          y="200"
           text-anchor="middle"
           class="month"
         >
@@ -598,7 +598,7 @@ GitHub activity statistics and monthly contribution graph.
 
 <text
   x="{GRAPH_X + GRAPH_WIDTH / 2}"
-  y="242"
+  y="230"
   text-anchor="middle"
   class="small"
 >
