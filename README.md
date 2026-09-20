@@ -2,21 +2,18 @@
 ### Computer Science and Electrical Engineering @ <a href="https://www.ucdavis.edu/">UC Davis</a>
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
-## some stats-
+## some Stats
 <p align="center">
   <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
-<br>
+
+## somewhere between code & coffee ♡
 <p align="center">
   <img
-    src="./assets/hiral-skate-loop.webp"
-    width="480"
-    alt="Hiral skating in, coding with her Labrador, and sharing a happy moment"
+    src="./assets/hiral-bright-loop.webp"
+    width="600"
+    alt="quick me animation :)"
   >
-</p>
-<br>
-<p align="center">
-  <i>build · learn · explore · grow ♡</i>
 </p>
 
 ## Wanna chat?
