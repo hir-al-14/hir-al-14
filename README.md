@@ -10,8 +10,8 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## somewhere between code & coffee ♡
 <p align="center">
   <img
-    src="./assets/hiral-skate-loop-slow.webp"
-    width="550"
+    src="./assets/hiral-bright-loop.webp"
+    width="600"
     alt="quick me animation :)"
   >
 </p>
