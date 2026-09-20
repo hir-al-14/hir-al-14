@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 <p align="center">
   <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
-<br>
+---
 <p align="center">
   <img
     src="./assets/hiral-skate-loop-slow.webp"
@@ -14,11 +14,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
     alt="quick me animation :)"
   >
 </p>
-<br>
-<p align="center">
-  <i>build · learn · explore · grow ♡</i>
-</p>
-
 ## Wanna chat?
 <p fontsize=14px>
   📩 email me- <a href="mailto:hiral.arora.1418@gmail.com">hiral.arora.1418@gmail.com</a> or <a href="mailto:hirarora@ucdavis.edu">hirarora@ucdavis.edu</a><br>
