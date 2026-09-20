@@ -293,7 +293,7 @@ for index, value in enumerate(values):
     y = (
         GRAPH_Y
         + GRAPH_HEIGHT
-        - (value / maximum) * GRAPH_HEIGHT
+        - math.sqrt(value / maximum) * GRAPH_HEIGHT
     )
 
     points.append((x, y))
@@ -472,7 +472,7 @@ GitHub activity statistics and monthly contribution graph.
   y="40"
   class="title"
 >
-  GitHub Stats
+  hiral's github stats
 </text>
 
 
