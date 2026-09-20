@@ -2,11 +2,12 @@
 ### Computer Science and Electrical Engineering @ <a href="https://www.ucdavis.edu/">UC Davis</a>
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
-## some stats-
+## some Stats
 <p align="center">
   <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
----
+
+## somewhere between code & coffee ♡
 <p align="center">
   <img
     src="./assets/hiral-skate-loop-slow.webp"
@@ -14,6 +15,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
     alt="quick me animation :)"
   >
 </p>
+
 ## Wanna chat?
 <p fontsize=14px>
   📩 email me- <a href="mailto:hiral.arora.1418@gmail.com">hiral.arora.1418@gmail.com</a> or <a href="mailto:hirarora@ucdavis.edu">hirarora@ucdavis.edu</a><br>
