@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## some stats-
 <p align="center">
-  <img src="./assets/github-stats.svg" width="100%" alt="GitHub Stats">
+  <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
 
 ## Wanna chat?
