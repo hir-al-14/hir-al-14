@@ -1,13 +1,21 @@
-# hi, I'm Hiral!
+<h1 allign="center">hi, I'm Hiral!</h1>
+
 ### Computer Science and Electrical Engineering @ <a href="https://www.ucdavis.edu/">UC Davis</a>
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+<ul>
+  <li>I'm interested in <b>software engineering & machine learning</b></li>
+  <li>Lately, I've been working with <b>RAG, computer vision, recommendation systems, and AI agents</b> trying to turn ideas into things people can actually use!</li>
+  <li>involved in on-campus tech clubs like <a href="https://codelabdavis.com/">Codelab</a>, <a href="https://www.aicollective.com/">The AI Collective</a>, <a href="https://gdscucdavis.com/">Google Developer Student Club</a>, and <a href="https://includedavis.com/">#include</a></li>
+  <li>sometimes I get nerdy and experiment with hardware too like <b>cyberdecks, sensors, ESP 32, Arduino UNO</b></li>
+  <li>I LOVE finding new coffee spots, labradors, and skating :)</li>
+</ul>
+
 
 ## some Stats
 <p align="center">
   <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
 
-## somewhere between code & coffee ♡
+### somewhere between code & coffee ♡
 <p align="center">
   <img
     src="./assets/hiral-bright-loop.webp"
