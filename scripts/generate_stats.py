@@ -293,7 +293,7 @@ for index, value in enumerate(values):
 
     y = (
         GRAPH_Y
-        + GRAPH_HEIGHT
+        + GRAPH_HEIGHT + 20
         - math.sqrt(value / maximum) * GRAPH_HEIGHT
     )
 
