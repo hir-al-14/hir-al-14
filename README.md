@@ -6,6 +6,18 @@ I'm a software engineer who is passionate about making contributing to open-sour
 <p align="center">
   <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
+<br>
+<p align="center">
+  <img
+    src="./assets/hiral-loop.png"
+    width="500"
+    alt="Hiral skating in, sitting to code with her Labrador, and looping"
+  >
+</p>
+<br>
+<p align="center">
+  <i>build · learn · explore · grow ♡</i>
+</p>
 
 ## Wanna chat?
 <p fontsize=14px>
