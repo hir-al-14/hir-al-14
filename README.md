@@ -9,9 +9,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 <br>
 <p align="center">
   <img
-    src="./assets/hiral-loop.png"
-    width="500"
-    alt="Hiral skating in, sitting to code with her Labrador, and looping"
+    src="./assets/hiral-skate-loop.webp"
+    width="480"
+    alt="Hiral skating in, coding with her Labrador, and sharing a happy moment"
   >
 </p>
 <br>
