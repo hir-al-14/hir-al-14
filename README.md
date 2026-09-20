@@ -1,5 +1,5 @@
-<h1 align="center">Hiral Arora</h1>
-<p align="center"><sub>Computer Science and Electrical Engineering at UC Davis</sub></p>
+<h1 align="center">hi! I'm Hiral!</h1>
+<h3 align="center"><sub>Computer Science and Electrical Engineering @ <a href="https://www.ucdavis.edu/">UC Davis</a></sub></h3>
 
 <p align="center">
 🌐 <a href="https://hiral-arora.vercel.app/">hiral-arora.vercel.app</a> &nbsp;|&nbsp; 📩 <a href="mailto:hiral.arora.1418@gmail.com">hiral.arora.1418@gmail.com</a>
