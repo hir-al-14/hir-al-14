@@ -3,10 +3,10 @@
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
 
 ### Wanna chat?
-<p fontsize=16px>
+<p fontsize=13px>
   📩 email me- <a href="mailto:hiral.arora.1418@gmail.com">hiral.arora.1418@gmail.com</a> or <a href="mailto:hirarora@ucdavis.edu">hirarora@ucdavis.edu</a><br>
   🌐 see more of my work on me website <a href="https://hiral-arora.vercel.app/">hiral-arora.vercel.app</a><br>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> sharing updates on my <a href="https://www.linkedin.com/in/hiral-aroraa/">LinkedIn @ hiral-aroraa</a><br>
+  <i class="bi bi-linkedin"></i> sharing updates on my <a href="https://www.linkedin.com/in/hiral-aroraa/">LinkedIn @ hiral-aroraa</a><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><a href="https://github.com/hir-al-14">my github- hir-al-14</a><br>
   <img src="https://img.shields.io/badge/Resume-8672A0?style=for-the-badge&logo=googledrive&logoColor=white" />view my < a href="https://drive.google.com/file/d/1VV8gPGp5mH2VUT8mNc8sFVfhm-v3dHgP/view?usp=sharing">Resume</a>
 </p>
