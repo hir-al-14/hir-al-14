@@ -1,4 +1,4 @@
-<h1 allign="center">hi, I'm Hiral!</h1>
+<h1 align="center">heyy, I'm Hiral! &nbsp;&nbsp; >‿< </h1>
 
 ### Computer Science and Electrical Engineering @ <a href="https://www.ucdavis.edu/">UC Davis</a>
 <ul>
@@ -9,20 +9,18 @@
   <li>I LOVE finding new coffee spots, labradors, and skating :)</li>
 </ul>
 
-
-## some Stats
+## Some Stats
 <p align="center">
   <img src="./assets/github-stats.svg" width="75%" alt="GitHub Stats">
 </p>
 
-### somewhere between code & coffee ♡
 <p align="center">
   <img
     src="./assets/hiral-bright-loop.webp"
-    width="600"
-    alt="quick me animation :)"
-  >
+    width="650"
+    alt="quick me animation :)" >
 </p>
+<p align="center">code & coffee ♡</p>
 
 ## Wanna chat?
 <p fontsize=14px>
