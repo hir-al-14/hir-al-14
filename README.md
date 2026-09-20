@@ -4,9 +4,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## some stats-
 <p>
-  <img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://github-stats-extended.vercel.app/api?username=hir-al-14&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hir-al-14&theme=dark" />
+  <img src="https://raw.githubusercontent.com/hir-al-14/hir-al-14/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub stats"><br>
 </p>
 
 ## Wanna chat?
