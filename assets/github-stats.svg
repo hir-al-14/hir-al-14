@@ -119,7 +119,7 @@ GitHub activity statistics and monthly contribution graph.
 <text x="31" y="79" class="icon">●</text>
 
 <text x="58" y="79" class="number">
-  318
+  381
 </text>
 
 <text x="112" y="79" class="label">
@@ -208,7 +208,7 @@ GitHub activity statistics and monthly contribution graph.
 <!-- GRAPH AREA -->
 
 <polygon
-  points="365,178 365.0,167.2 400.5,178.0 435.9,178.0 471.4,171.7 506.8,154.6 542.3,156.3 577.7,150.0 613.2,146.7 648.6,145.5 684.1,159.2 719.5,178.0 755.0,88.0 755,178"
+  points="365,178 365.0,168.5 400.5,178.0 435.9,178.0 471.4,172.5 506.8,157.5 542.3,159.0 577.7,153.5 613.2,150.6 648.6,149.5 684.1,161.6 719.5,178.0 755.0,88.0 755,178"
   class="area"
 />
 
@@ -216,7 +216,7 @@ GitHub activity statistics and monthly contribution graph.
 <!-- GRAPH LINE -->
 
 <polyline
-  points="365.0,167.2 400.5,178.0 435.9,178.0 471.4,171.7 506.8,154.6 542.3,156.3 577.7,150.0 613.2,146.7 648.6,145.5 684.1,159.2 719.5,178.0 755.0,88.0"
+  points="365.0,168.5 400.5,178.0 435.9,178.0 471.4,172.5 506.8,157.5 542.3,159.0 577.7,153.5 613.2,150.6 648.6,149.5 684.1,161.6 719.5,178.0 755.0,88.0"
   class="graph"
 />
 
@@ -226,7 +226,7 @@ GitHub activity statistics and monthly contribution graph.
 
     <circle
       cx="365.0"
-      cy="167.2"
+      cy="168.5"
       r="3.5"
       class="dot"
     />
@@ -247,49 +247,49 @@ GitHub activity statistics and monthly contribution graph.
     
     <circle
       cx="471.4"
-      cy="171.7"
+      cy="172.5"
       r="3.5"
       class="dot"
     />
     
     <circle
       cx="506.8"
-      cy="154.6"
+      cy="157.5"
       r="3.5"
       class="dot"
     />
     
     <circle
       cx="542.3"
-      cy="156.3"
+      cy="159.0"
       r="3.5"
       class="dot"
     />
     
     <circle
       cx="577.7"
-      cy="150.0"
+      cy="153.5"
       r="3.5"
       class="dot"
     />
     
     <circle
       cx="613.2"
-      cy="146.7"
+      cy="150.6"
       r="3.5"
       class="dot"
     />
     
     <circle
       cx="648.6"
-      cy="145.5"
+      cy="149.5"
       r="3.5"
       class="dot"
     />
     
     <circle
       cx="684.1"
-      cy="159.2"
+      cy="161.6"
       r="3.5"
       class="dot"
     />
