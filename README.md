@@ -1,3 +1,4 @@
+[/
 <h1 align="center">heyy, I'm Hiral! &nbsp;&nbsp; >‿< </h1>
 
 ### Computer Science and Electrical Engineering @ <a href="https://www.ucdavis.edu/">UC Davis</a>
@@ -30,3 +31,4 @@
   💻 my github- <a href="https://github.com/hir-al-14">hir-al-14</a><br>
   📃 view my <a href="https://drive.google.com/file/d/1VV8gPGp5mH2VUT8mNc8sFVfhm-v3dHgP/view?usp=sharing">Resume</a>
 </p>
+/]
